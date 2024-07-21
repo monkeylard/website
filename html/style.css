@@ -47,6 +47,13 @@ img.factorio  {
 img.zomboid  {
 	vertical-align: middle;
 }
+img.terraria  {
+	vertical-align: middle;
+}
 img.quake  {
 	vertical-align: middle;
+}
+
+#audio {
+	padding: 0px;
 }
