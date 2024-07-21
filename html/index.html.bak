@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
-<!-- STOP LOOKING AT MY HORRIBLE HTML -->
+<!-- STOP LOOKING AT MY HORRIBLE HTML! -->
 <!-- MY BARE SOUL, EXPOSED, IN TEXT FORM! -->
 <!-- A BETRAYAL I WOULD NEVER FORGIVE!!! -->
 
 <head>
 	<title>Monkeylard's Website</title>
 	<link rel="stylesheet" type="text/css" href="style.css" />
+	<meta content="Embed Title" property="og:title" />
+	<meta content="Site Description" property="og:description" />
+	<meta content="https://embed.com/this-is-the-site-url" property="og:url" />
+	<meta content="https://embed.com/embedimage.png" property="og:image" />
+	<meta content="#43B581" data-react-helmet="true" name="theme-color" />
 
 	<hr />
 
@@ -22,13 +27,13 @@
 
 	<hr />
 	<div id="container">
-<h2>
+		<h2>
 		<div id="apology">
 			
 			<IMG class="steam" style="width: 45px; height: 45px;" SRC="steamhappy.png" alt="Steam Happy Emoji">
 			 I promise it looks bad on purpose!
 			<IMG class="steam" style="width: 45px; height: 45px;" SRC="steamhappy.png" alt="Steam Happy Emoji"> 
-			</h2>
+		</h2>
 			
 
 		</div>
@@ -78,16 +83,32 @@
 					<IMG class="quake" style="width: 20px; height: 20px;" SRC="quake.png" alt="quake Thumbnail">
 					<b>Quake Live Server =</b> 66.71.245.210:9000
 					<IMG class="quake" style="width: 20px; height: 20px;" SRC="quake.png" alt="quake Thumbnail">
-					
 					</p>
 				  </li>
 				  
 				</ul>
 		</div>
 
-	</div>
-
+	
+	
 	<hr />
+	
+	<div id="audio">
+	<h2> </p> Here's Avril 14th by Aphex Twin</h2> </p>
+	To accompany your stay at monkeylard.com 
+	<IMG class="steam" style="width: 20px; height: 20px;" SRC="steamhappy.png" alt="Steam Happy Emoji"> </p>
+	<audio controls>
+	<source src="Avril_14th.mp3" type="audio/mpeg">
 
+	Your browser does not support the audio element.
+	</audio>
+	</p>
+
+	</div>
+	
+	<hr />
+	
+	</div>
+	
 </body>
 </html>
